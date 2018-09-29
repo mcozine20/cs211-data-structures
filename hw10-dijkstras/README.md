@@ -6,7 +6,7 @@ Given a graph represented as an adjacency matrix, implements Dijkstra’s Algori
 * Heap.java: some code that you’ll recognize from earlier assignments as a heap implementation of a priority queue… The heap relies on the compareTo method in Node to give a priority ordering of Node objects, so it won’t do anything interesting until you rewrite compareTo to make it do something meaningful
 * Dijkstra.java: some starter code for your Dijkstra’s algorithm implementation. Specifically right now the code does the following:
 	1. Creates a new n x n array of ints, which will be an adjacency matrix representing the graph.
-`	2. Calls the fillRandomGraph() method to put some edges in the graph, with weights in the range 0-9. Right now each edge is created with probability 0.8 and the edge weights are selected uniformly at random.
+	2. Calls the fillRandomGraph() method to put some edges in the graph, with weights in the range 0-9. Right now each edge is created with probability 0.8 and the edge weights are selected uniformly at random.
 	3. Creates an array of Node objects, one for each vertex in the graph.
 
 ## What I had to do
