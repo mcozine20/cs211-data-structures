@@ -18,7 +18,7 @@ Given a graph represented as an adjacency matrix, implements Dijkstra’s Algori
 
 ## How I did it
 * Added fields to Node.java and filled out the compareTo method (Node.java lines 4-6 and 9-17)
-* Wrote decreaseKey in Heap.java (Heap.java lines 73-87)
+* Wrote decreaseKey in Heap.java (Heap.java lines 80-94)
 * Wrote a Stack.java file to make printing easy
 * Wrote the dijkstra and printPath methods (Dijkstra.java lines 64-138)
 
