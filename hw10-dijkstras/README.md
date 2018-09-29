@@ -23,7 +23,7 @@ Given a graph represented as an adjacency matrix, implements Dijkstra’s Algori
 * Wrote the dijkstra and printPath methods (Dijkstra.java lines 64-138)
 
 ## Built With
-Java
+* Java
 
 ## Contributors
 * Professor Kristy Gardner
