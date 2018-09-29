@@ -7,7 +7,7 @@ Given a graph represented as an adjacency matrix, implements Dijkstra’s Algori
 * Dijkstra.java: some starter code for your Dijkstra’s algorithm implementation. Specifically right now the code does the following:
 	1. Creates a new n x n array of ints, which will be an adjacency matrix representing the graph.
 	2. Calls the fillRandomGraph() method to put some edges in the graph, with weights in the range 0-9. Right now each edge is created with probability 0.8 and the edge weights are selected uniformly at random.
-	3. Creates an array of Node objects, one for each vertex in the graph. \\
+	3. Creates an array of Node objects, one for each vertex in the graph. //
 \n - Professor Kirsty Gardner
 ## What I had to do
 * “Your job in this assignment is to implement Dijkstra’s algorithm to find the shortest path from vertex 0 (i.e., the node with index 0, which is in position 0 of the array created in the starter code) to every other vertex in the graph.” - Professor Kristy Gardner
