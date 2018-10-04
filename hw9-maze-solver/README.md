@@ -10,7 +10,7 @@ Given a maze in a specific format (specifically a .txt file like those provided 
 	3. Calls the printMaze() method to print the maze.
 
 ## What I had to do
-* Write the addEdge method in Graph,java, which I chose to do by creating an adjacency list.
+* Write the addEdge method in Graph.java, which I chose to do by creating an adjacency list.
 * Update Graph.java and Node.java to complete the implementation of the changed addEdge method
 * In MazeSolver.java write a method called solve() that takes a Graph as input and returns an ordered array of the Nodes included in the path from the maze entrance to the exit
 
