@@ -19,7 +19,7 @@ Given a maze in a specific format (specifically a .txt file like those provided 
 * Filled in the addEdge method in Graph.java (Graph.java lines 7-25)
 * Added a linked list in each Node to keep track of its edges (Node.java line 6)
 * Added a edgeExists method to Node.java that takes a given index and checks if a node with that index exists in the linked list of edges of the given node (Node.java lines 24-41)
-* Created a LLAddOnly.java file so each Node could keep track of its edges with an add-only linked list
+* Copied over a LLAddOnly.java file from an earlier project so each Node could keep track of its edges with an add-only linked list
 * Filled in the solve method in MazeSolver.java (MazeSolver.java lines 163-179)
 * Made a DFSPathFinder method in MazeSolver.java that implements recursive depth-first search to go through a maze and mark all of the nodes that are in that maze’s solution path (MazeSolver.java 186-229)
 
