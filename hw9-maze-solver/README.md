@@ -16,7 +16,7 @@ Given a maze in a specific format (specifically a .txt file like those provided 
 
 ## How I did it
 * Created an Edge.java file to represent edges in the adjacency list (Edge.java lines 1-10)
-* Filled in the addEdge method in Graph.java (Graph.java lines 7-25
+* Filled in the addEdge method in Graph.java (Graph.java lines 7-25)
 * Added a linked list in each Node to keep track of its edges (Node.java line 6)
 * Added a edgeExists method to Node.java that takes a given index and checks if a node with that index exists in the linked list of edges of the given node (Node.java lines 24-41)
 * Created a LLAddOnly.java file so each Node could keep track of its edges with an add-only linked list
