@@ -6,7 +6,7 @@ Given a maze in a specific format (specifically a .txt file like those provided 
 * Graph.java: some very basic starter code to implement a graph. At first all it contained was an array of Nodes and a constructor that initializes each Node. 
 * MazeSolver.java: some starter code to help solve mazes. Specifically, the code does the following:
 	1. Calls the parse() method to read the contents of a file and extract information about the size of the maze and the walls in the maze.
-`	2. Calls the buildGraph() method to generate a graph based on the maze information extracted by parse(). This method calls the addEdge() method in Graph.
+	2. Calls the buildGraph() method to generate a graph based on the maze information extracted by parse(). This method calls the addEdge() method in Graph.
 	3. Calls the printMaze() method to print the maze.
 
 ## What I had to do
